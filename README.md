@@ -1,4 +1,6 @@
-## “Sempre em movimento é o Futuro” ..👾
+## “A Tecnologia move o mundo..” ..👾
+
+-Bem Vindo! 😉
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando nextJs
