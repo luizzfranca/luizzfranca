@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando nextJs
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
