@@ -1,4 +1,4 @@
-## “A Tecnologia move o mundo..” ..👾
+## “A Tecnologia move o mundo..” 👾
 
 -Bem Vindo! 😉
 
