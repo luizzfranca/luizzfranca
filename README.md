@@ -1,6 +1,10 @@
 ## “A Tecnologia move o mundo..” 👾
 
--Bem Vindo! 😉
+Entusiasta das melhores tecnologias de desenvolvimento web & mobile.
+
+"Nada neste mundo supera a boa e velha persistência. Talento não supera. Nada mais comum que talentosos fracassados. Genialidade não supera. Gênios não reconhecidos é praticamente um clichê. Educação não supera. Porque o mundo é cheio de tolos educados. Persistência e determinação, apenas, são poderosas."
+
+Bora codar 🚀
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
