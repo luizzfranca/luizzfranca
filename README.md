@@ -1,4 +1,4 @@
-## “A Tecnologia move o mundo..” 👾
+## “A Tecnologia move o mundo..” 
 
 Entusiasta das melhores tecnologias de desenvolvimento web & mobile.
 
