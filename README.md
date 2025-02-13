@@ -29,5 +29,5 @@ Atualmente, contribuo ativamente para o cenário de desenvolvimento mobile, util
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)&nbsp;
 
 
-"Código é a poesia que transforma ideias em inovação, e a tecnologia é a tela onde cada linha de código pinta o futuro."
+
 
